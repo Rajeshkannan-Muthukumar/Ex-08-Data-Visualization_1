@@ -23,6 +23,8 @@ Apply data visualization techniques to identify the patterns of the data.
 ```
 NAME   : M.RAJESHKANNAN
 REG NO : 212221230081
+```
+```
 #loading the dataset
 import pandas as pd
 import numpy as np
